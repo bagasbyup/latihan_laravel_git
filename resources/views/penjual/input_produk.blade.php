@@ -58,7 +58,7 @@
 
                 <div class="row mb-2">
                     <div class="col-md-8 offset-md-4">
-                        <button class="btn btn-sm btn-warning" type="submit">Simpan</button>
+                        <button class="btn btn-sm btn-primary type="submit">Simpan</button>
                     </div>
                 </div>
                     </form>
